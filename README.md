@@ -18,7 +18,7 @@ An interactive Excel dashboard that tracks personal income, expenses, and saving
 - There is a savings rate of -103% indicating a need to manage expenses better.
 
 ## 🔗 Project Link
-[View Excel Dashboard on GitHub](https://github.com/yourusername/personal-budget-dashboard)
+[View Excel Dashboard on GitHub](https://github.com/Phoenix-JT/Personal-Spending-Dashboard-Excel-)
 
 ## 🏷️ Tags
 `Excel` `Data Visualization` `Dashboard Design` `Financial Analysis`
